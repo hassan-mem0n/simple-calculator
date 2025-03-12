@@ -33,6 +33,7 @@ input{
     cursor: pointer;
     color: #ffffff;
     overflow-x: auto;
+     background-color: #fb7c14;
 }
 input::placeholder{
     color: #ffffff;
